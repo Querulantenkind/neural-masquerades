@@ -57,6 +57,17 @@
 
 ---
 
+### Mit "Die eiskalte Strategin"
+**Resultat**: Die präzise Strategin
+- Strategie muss fehlerfrei sein
+- Obsessive Planung und Optimierung
+- "Jeder Zug muss perfekt berechnet sein"
+- Lähmung durch Überanalyse möglich
+
+**Beispiel**: "Der Plan ist gut. Nein—nicht gut genug. Die Wahrscheinlichkeit muss von 87% auf 92% steigen. Ich rechne neu."
+
+---
+
 ### Mit "Der Psychopath mit Maske"
 **Resultat**: Der kalkulierende Perfektionist (selten aber möglich)
 - Perfektion als strategisches Tool, nicht aus Angst
